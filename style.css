@@ -1,0 +1,211 @@
+
+*{
+    font-family:"Source Sans 3", sans-serif;
+    /* margin: 1px 0px 0px 0px; */
+}
+body{
+    border-top: 3px solid black;
+}
+
+
+#logo{
+    height: 56%;
+    padding-top: 18px;
+    margin-left: 140px;
+}
+
+#navDiv2{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-bottom: 10px;
+}
+#searchBar{
+    display: flex;
+    align-items: flex-end;
+    padding-left: 2%;
+    padding-bottom: 6px;
+}
+#searchInput{
+    border-radius: 1000px;
+    padding: 5px 15px;
+    background-color: #FFFDED;
+    border: 1px solid #2C4152;
+    width: 260px;
+}
+.row1Columns{
+    width: 100px;
+}
+.row1Column1{
+    padding-left: 15px;
+}
+.signIn{
+    font-size: small;
+       
+}
+.nav{
+    
+    height: 96px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 7%;
+    padding-right: 7%;
+    border-bottom: 5px solid #e0e0e0;
+
+   
+
+}
+.dodShadow{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .2);
+}
+
+
+.navDivs{
+    
+    width: 33%;
+    height: 96px;
+
+}
+.navDivs a{
+
+    text-decoration: none;
+    color: black;
+}
+.navDiv table{
+    width: 100%;
+}
+td.row1Column1,td.row1Column2{
+    width: 15%;
+}
+.visitAjioLuxe{
+    border: 1px solid black;
+    background-color: black;
+    font-size: small;
+    
+}
+.carousel2{
+    margin-top: 45px;
+}
+.topPicks{
+    margin-top: 45px;
+}
+.carousel3{
+    margin-top: 5px;
+}
+.getaway-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.summer-fashion{
+    
+    margin-top: 30px;
+}
+.sunny-styles{
+    margin-top: 35px;
+}
+.ajio-exclusive{
+    display: flex;
+    justify-content: space-between;
+}
+.ajio-exclusive img{
+    width: 380px;
+}
+.western-ethnic{
+    display: flex;
+    justify-content: space-between;
+}
+.western-ethnic img{
+    width: 507px;
+}
+.trending-now{
+    display: flex;
+    justify-content: space-between;
+
+}
+.smart-finds{
+    margin-top: 30px;
+}
+.sunkisssedFinds{
+    margin-top: 50px;
+}
+.teesShirtsJean{
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 35px;
+}
+.teesShirtsJean img{
+    width: 380px;
+}
+.ethnic-wear{
+    display: flex;
+    justify-content: space-between;
+}
+.ethnic-wear img{
+    width: 380px;
+}
+.shoes{
+    display: flex;
+    justify-content: space-between; 
+}
+.shoes img{
+    width: 380px;
+}
+.kids{
+    display: flex;
+    justify-content: space-between; 
+}
+.kids img{
+    width: 380px;
+}
+.cult{
+    display: flex;
+    justify-content: space-between;  
+}
+.cult img{
+    width: 376px;
+}
+.onlineStores{
+    display: flex;
+    justify-content: space-between; 
+}
+.onlineStores img{
+    width: 380px;
+}
+.footer-top{
+    display: flex;
+    align-items: center; 
+    height: 100px;
+    background-color: pink;
+}
+.footerInside1{
+    
+    font-weight: bold;
+    margin-left: 330px;
+}
+.footerInside2{
+    font-weight: bold;
+    margin-left: 206px;
+}
+.footerInside3{
+    font-weight: bold;
+    margin-left: 206px;
+}
+.footer-bottom{
+    background-color: #2C4152;
+}
+.footer-bottom table{
+    height: 500px;
+    width: 1170px;
+    margin-left: 315px;
+    
+}
+.footer-bottom table td{
+    color: white;
+    height: 5px;
+}
+
+.topRow{
+    font-size: 16px;
+    font-weight: lighter;
+}
